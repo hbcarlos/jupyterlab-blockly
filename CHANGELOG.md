@@ -2,6 +2,12 @@
 
 <!-- <START NEW CHANGELOG ENTRY> -->
 
+## 0.2.2
+
+No merged PRs
+
+<!-- <END NEW CHANGELOG ENTRY> -->
+
 ## 0.2.1
 
 ([Full Changelog](https://github.com/QuantStack/jupyterlab-blockly/compare/jupyterlab-blockly-extension@0.2.0...bd41065fbfe8712ad75fad0b2df6be7c9e887c4f))
@@ -15,8 +21,6 @@
 ([GitHub contributors page for this release](https://github.com/QuantStack/jupyterlab-blockly/graphs/contributors?from=2022-09-07&to=2022-09-07&type=c))
 
 [@hbcarlos](https://github.com/search?q=repo%3AQuantStack%2Fjupyterlab-blockly+involves%3Ahbcarlos+updated%3A2022-09-07..2022-09-07&type=Issues)
-
-<!-- <END NEW CHANGELOG ENTRY> -->
 
 ## 0.2.0
 
